@@ -1,21 +1,21 @@
 source,target,weight
-Madagascar,Rwanda,2
 Madagascar,Mozambique,1
+Madagascar,Rwanda,2
 Madagascar,Kenya,2
-Madagascar,Ghana,1
 Madagascar,Cameroon,2
-Kenya,Rwanda,5
+Madagascar,Ghana,1
+Kenya,Seychelles,2
 Kenya,Mozambique,2
+Kenya,Rwanda,5
+Kenya,Cameroon,4
 Kenya,Vanuatu,1
 Kenya,Ghana,5
-Kenya,Seychelles,2
-Kenya,Cameroon,4
-Niue,Norfolk Island,1
 Niue,Vanuatu,1
+Niue,Norfolk Island,1
 Norfolk Island,Vanuatu,1
 Rwanda,Mozambique,2
-Rwanda,Ghana,3
 Rwanda,Cameroon,4
+Rwanda,Ghana,3
 Seychelles,Ghana,1
 Cameroon,Mozambique,1
 Cameroon,Ghana,3

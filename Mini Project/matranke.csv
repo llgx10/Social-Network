@@ -1,10 +1,48 @@
-Albania,0.0003157,0.315719688
-Vietnam,0.0009292,0.929192031
-Senegal,0.0009292,0.929192031
-Finland,0.0041550,4.154952844
-Ghana,0.0041550,4.154952844
-Czech Republic,0.0041550,4.154952844
-Norway,0.0041550,4.154952844
-Argentina,0.0053999,5.399864562
-Chile,0.0055174,5.517441982
-Bermuda,0.0068914,6.891358442
+stt,??nh 1,??nh 2,Node betweeness,Node betweeness,,Betweeness Centrality,Closeness Centrality
+1,Kenya,Mozambique,,Cb(Kenya),0.416666667,20,
+2,Kenya,Rwanda,,Cb(Mozambique),0,0,
+3,Kenya,Madagascar,,Cb(Madagascar),0,0,
+4,Kenya,Cameroon,,Cb(Rwanda),0,0,
+5,Kenya,Ghana,,Cb(Cameroon),0,0,
+6,Kenya,Seychelles,,Cb(Ghana),0.041666667,2,
+7,Kenya,Vanuatu,,Cb(Vanuatu),0.291666667,14,
+8,Kenya,Norfolk Island,Vanuatu,Cb(Norfolk Island),0,0,
+10,Kenya,Niue,Vanuatu,Cb(Niue),0,0,
+12,Mozambique,Rwanda,,Cb(Seychelles),0,0,
+13,Mozambique,Madagascar,,,,,
+14,Mozambique,Cameroon,,,,,
+15,Mozambique,Ghana,,,,,
+16,Mozambique,Seychelles,Ghana or Kenya,,,,
+17,Mozambique,Vanuatu,Kenya,,,,
+18,Mozambique,Niue,"Kenya, Vanuatu",,,,
+19,Mozambique,Norfolk Island,"Kenya, Vanuatu",,,,
+21,Rwanda,Madagascar,,,,,
+22,Rwanda,Cameroon,,,,,
+23,Rwanda,Ghana,,,,,
+24,Rwanda,Seychelles,Ghana or Kenya,,,,
+25,Rwanda,Vanuatu,Kenya,,,,
+26,Rwanda,Niue,"Kenya, Vanuatu",,,,
+27,Rwanda,Norfolk Island,"Kenya, Vanuatu",,,,
+28,Madagascar,Cameroon,,,,,
+29,Madagascar,Ghana,,,,,
+30,Madagascar,Seychelles,Ghana or Kenya,,,,
+31,Madagascar,Vanuatu,Kenya,,,,
+32,Madagascar,Niue,"Kenya, Vanuatu",,,,
+33,Madagascar,Norfolk Island,"Kenya, Vanuatu",,,,
+34,Cameroon,Ghana,,,,,
+35,Cameroon,Seychelles,Ghana or Kenya,,,,
+36,Cameroon,Vanuatu,Kenya,,,,
+37,Cameroon,Niue,"Kenya,Vanuatu",,,,
+38,Cameroon,Norfolk Island,"Kenya,Vanuatu",,,,
+39,Ghana,Seychelles,,,,,
+40,Ghana,Vanuatu,Kenya,,,,
+41,Ghana,Niue,"Kenya,Vanuatu",,,,
+42,Ghana,Norfolk Island,"Kenya,Vanuatu",,,,
+43,Seychelles,Vanuatu,Kenya,,,,
+44,Seychelles,Niue,"Kenya,Vanuatu",,,,
+45,Seychelles,Norfolk Island,"Kenya,Vanuatu",,,,
+46,Vanuatu,Niue,,,,,
+47,Vanuatu,Norfolk Island,,,,,
+48,Niue,Norfolk Island,,,,,
+,,,,,,,
+,M?u=48,,,,,,
